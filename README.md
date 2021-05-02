@@ -32,4 +32,18 @@ If I were to offer a suggestion to the company I would simply suggest to add dro
 
 In order for them to be successful using big data they would need to partner with a firm that offers big data such as Sift, a california located company used to prevent fraud. Lemonade needs to be able to detect potential fraud from users who create different accounts to make false claims. Lemonade should also partner with any company that specializes in large data sets to help extract more than 1,700 data points.
 
+---
+
 ## Sources
+[BusinessWire](https://www.businesswire.com/news/home/20201231005145/en/Lemonade-Ends-2020-With-Over-One-Million-Active-Customers)
+[Forbes](https://www.forbes.com/sites/jeffkauflin/2019/05/02/lemonade-fintech-insurance-unicorn/?sh=18229eef6cde)
+[Forbes](https://www.forbes.com/sites/afdhelaziz/2020/03/09/the-power-of-purpose-how-lemonade-is-disrupting-insurance-with-goodness-and-a-new-foundation/?sh=2f304d147288)
+[GoMedici](https://gomedici.com/companies/lemonade)
+[GuidingMetrics](https://guidingmetrics.com/content/insurance-industrys-18-most-critical-metrics/)
+[McKinsey & Company](https://www.mckinsey.com/industries/financial-services/our-insights/insurance-2030-the-impact-of-ai-on-the-future-of-insurance#)
+[MeritechCapital](https://www.meritechcapital.com/blog/lemonade-ipo-s-1-breakdown#:~:text=Approximately%2070%25%20of%20customers%20are,to%20annualized%20gross%20written%20premium.)
+[Motley Fool](https://www.fool.com/investing/2020/12/10/how-lemonade-could-change-insurance/)
+[PrNewsWire](https://www.prnewswire.com/news-releases/homeowners-insurance-premiums-increased-59-over-the-past-decade-valuepenguincom-finds-301070517.html)
+[PropertyCasualty360](https://www.propertycasualty360.com/2019/12/09/how-this-decades-tech-changed-the-insurance-industry/)
+[Statista](https://www.statista.com/statistics/1190570/total-revenue-lemonade/)
+[TheStrategyStory](https://thestrategystory.com/2020/12/20/lemonade-insurance-company/)
