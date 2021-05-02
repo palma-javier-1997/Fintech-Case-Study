@@ -1,5 +1,5 @@
 # Fintech-Case-Study
-# Lemonade Inc is quiet refreshing
+# Lemonade Inc is Quiet Refreshing
 
 ## Overview and Origin
 Lemonade Inc
